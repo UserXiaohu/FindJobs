@@ -22,5 +22,9 @@ CSDN博客地址：https://blog.csdn.net/m0_47220500/article/details/125328219
 
 B站运行视频：暂无
 
-项目下载地址：http://www.shiyuncode.com/details?id=31
+### 四、项目获取
+获取方式（点击下载）：[是云猿实战](https://shiyuncode.com/details?goodsCode=C00031)
+
+项目经过多人测试运行，可以确保100%成功运行。
+
 
